@@ -4,7 +4,7 @@ Contact: ztor76@gmail.com, ksh567567@ds.seoultech.ac.kr
 <br>
 
 - 본 repository는 **LightGCN(He et al., 2020)** 추천 시스템 모델을 Pytorch-geometric(PyG) 및 Jupyter notebook에서 실행할 수 있도록 구축한 Python 코드를 포함합니다.
-- 모델 검증은 LightGCN 논문에 사용된 Yelp2018 데이터셋 사용하여 진행했습니다.
+- LightGCN 논문에 사용된 Yelp2018 데이터셋으로 모델 검증을 수행합니다.
 
 <br>
 <br>
