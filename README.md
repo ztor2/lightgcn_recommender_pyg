@@ -1,4 +1,5 @@
 ## LightGCN Recommender PyG/Jupyter implementation
+Contact: ztor76@gmail.com, ksh567567@ds.seoultech.ac.kr
 
 <br>
 
