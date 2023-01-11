@@ -9,7 +9,7 @@ Contact: ztor76@gmail.com, ksh567567@ds.seoultech.ac.kr
 <br>
 
 - This repository includes **LightGCN(He et al., 2020) recommender system pytorch-geometric/Jupyter notebook implementation with Python**.
-- Gowalla dataset is used for validation from LightGCN paper.
+- Gowalla dataset from LightGCN paper is used for validation.
 
 <br>
 <br>
