@@ -20,8 +20,6 @@ docs
 - https://arxiv.org/pdf/1905.08108.pdf (Neural Graph Collaborative Filtering; NGCF)
 - https://arxiv.org/pdf/2002.02126.pdf (LightGCN)
 - https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf (Bayesian Personalized Ranking; BPR)
-- https://velog.io/@2712qwer/Paper-Code-Review-2009-UAI-BPR-Bayesian-Personalized-Ranking-from-Implicit-Feedback (BPR explanation)
-- https://lucaseo.github.io/posts/2020-05-10-normalized-discounted-cumulative-gain (NDCG@K explanation)
 
 codes
 - https://github.com/sh0416/bpr (BPR implementation)
