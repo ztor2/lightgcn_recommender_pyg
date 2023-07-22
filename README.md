@@ -8,7 +8,6 @@ Contact: ztor76@gmail.com, ksh567567@ds.seoultech.ac.kr
 - We confirmed that the model performance was comparable to that of the original paper in Gowalla dataset setting.
 
 <br>
-<br>
 
 <p align="center"> <img src="https://i.esdrop.com/d/f/stu7PPILpD/pwmrhCYhda.png" width="500" align="center"> </p>
 <p align="center"> <img src="https://i.esdrop.com/d/f/stu7PPILpD/0KunNiNDmx.png" width="500" align="center"> </p>
