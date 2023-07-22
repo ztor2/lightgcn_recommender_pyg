@@ -1,11 +1,11 @@
 ## LightGCN Recommender Pytorch-Geometric(PyG)/Jupyter notebook implementation
 Contact: ztor76@gmail.com, ksh567567@ds.seoultech.ac.kr
-for the Jupiter environment.
 <br>
 
 - This repository includes **LightGCN(He et al., 2020) recommender system pytorch-geometric/Jupyter notebook implementation with Python**.
 - Gowalla dataset from LightGCN paper is used for validation.
 - We corrected some minor errors in the original code and improved them more intuitively for the Jupyter notebook environment.
+- We confirmed that the model performance was comparable to that of the original paper in Gowalla dataset setting.
 
 <br>
 <br>
