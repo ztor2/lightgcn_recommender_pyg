@@ -1,5 +1,5 @@
 ## LightGCN Recommender Pytorch-Geometric(PyG)/Jupyter notebook implementation
-Contact: ztor76@gmail.com, shlife9056@gmail.com
+Contact: ztor2k@gmail.com, shlife9056@gmail.com
 <br>
 
 - This repository includes **LightGCN(He et al., 2020) recommender system pytorch-geometric/Jupyter notebook implementation with Python**.
